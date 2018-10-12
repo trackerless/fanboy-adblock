@@ -1123,3 +1123,4 @@
 ||zoomino.com^$third-party
 ||zoosnet.net^$third-party
 ||zowary.com^$third-party
+||savecart.pl^$third-party
